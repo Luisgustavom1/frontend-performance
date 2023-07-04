@@ -11,3 +11,4 @@ The goal is removes all unnecessary things to decrease the size of the files tha
 ##### Contents:
   - [Optimizing Encoding and Transfer Size of Text-Based Assets](https://web.dev/optimizing-content-efficiency-optimize-encoding-and-transfer/#minification-preprocessing--context-specific-optimizations)
   - [Brotli compression](https://github.com/google/brotli)
+  - [Brotli and gzip](https://tech.oyorooms.com/how-brotli-compression-gave-us-37-latency-improvement-14d41e50fee4)
