@@ -30,7 +30,6 @@ Use the `woff2` a modern format, its format use brotlin to compression and have 
 ###### Contents:
   - [Woff2 google explanation](https://groups.google.com/a/chromium.org/g/chromium-dev/c/j27Ou4RtvQI)
   - [Official repository of woff2 compression](https://github.com/google/woff2)
-  - [Covert to woff2](https://www.fontsquirrel.com/tools/webfont-generator)
-  - [ttf to woff2](https://everythingfonts.com/ttf-to-woff2)
+  - [ttf to woff2](https://cloudconvert.com/ttf-to-woff2)
 
 > Make a fallback, some browsers are not yet supported https://caniuse.com/?search=woff2
